@@ -393,6 +393,11 @@ Elemen ini menunjukkan bahwa aplikasi ini membutuhkan izin untuk mengatur alarm 
 
 ![image](https://github.com/Aliyahasmarani/Mobile_Pertemuan9/assets/115197672/f9714d22-a943-4210-b6e6-db9d1f36c4ef)
 
+# HASIL AKHIR
+
+https://github.com/Aliyahasmarani/Mobile_Pertemuan9/assets/115197672/c7bbc5c3-c49e-4490-bff1-ecbfd469e34a
+
+
 
 
 
