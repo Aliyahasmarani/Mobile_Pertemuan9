@@ -395,12 +395,7 @@ Elemen ini menunjukkan bahwa aplikasi ini membutuhkan izin untuk mengatur alarm 
 
 # HASIL AKHIR
 
-https://github.com/Aliyahasmarani/Mobile_Pertemuan9/assets/115197672/c7bbc5c3-c49e-4490-bff1-ecbfd469e34a
-
-
-
-
-
+https://github.com/Aliyahasmarani/Mobile_Pertemuan9/assets/115197672/fd375a4e-48da-4fad-93e4-cc2a7fe4fcf1
 
 
 
